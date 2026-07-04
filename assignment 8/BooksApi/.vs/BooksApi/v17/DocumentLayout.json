@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|c:\\users\\kimostore\\onedrive\\desktop\\backend assignments\\assignment 8\\booksapi\\booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|c:\\users\\kimostore\\onedrive\\desktop\\backend assignments\\assignment 8\\booksapi\\booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|c:\\users\\kimostore\\onedrive\\desktop\\backend assignments\\assignment 8\\booksapi\\booksapi\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|c:\\users\\kimostore\\onedrive\\desktop\\backend assignments\\assignment 8\\booksapi\\booksapi\\services\\interfaces\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\services\\interfaces\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|c:\\users\\kimostore\\onedrive\\desktop\\backend assignments\\assignment 8\\booksapi\\booksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|c:\\users\\kimostore\\onedrive\\desktop\\backend assignments\\assignment 8\\booksapi\\booksapi\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|c:\\users\\kimostore\\onedrive\\desktop\\backend assignments\\assignment 8\\booksapi\\booksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B048CA4-6D0B-432D-94F9-CDBABD94C9A5}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Services\\BooksService.cs",
+              "RelativeToolTip": "BooksApi\\Services\\BooksService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T09:06:08.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBooksService.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Services\\Interfaces\\IBooksService.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Services\\Interfaces\\IBooksService.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Services\\Interfaces\\IBooksService.cs",
+              "RelativeToolTip": "BooksApi\\Services\\Interfaces\\IBooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T08:53:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Models\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Models\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Models\\Entities\\Book.cs",
+              "RelativeToolTip": "BooksApi\\Models\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T08:45:03.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BooksApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T08:27:15.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BooksApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T08:23:30.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BooksApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\WeatherForecast.cs",
+              "RelativeToolTip": "BooksApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T08:23:19.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Program.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Program.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\Program.cs",
+              "RelativeToolTip": "BooksApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T08:22:21.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
