@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Task-Manager-API-main",
+    "\\Task-Manager-API-main\\TaskManagerApi.Api",
+    "\\Task-Manager-API-main\\TaskManagerApi.Api\\Models",
+    "\\Task-Manager-API-main\\TaskManagerApi.Api\\Models\\DTOs",
+    "\\Task-Manager-API-main\\TaskManagerApi.Api\\Models\\Entities",
+    "\\Task-Manager-API-main\\TaskManagerApi.Api\\Repositories",
+    "\\Task-Manager-API-main\\TaskManagerApi.Api\\Repositories\\Interfaces",
+    "\\Task-Manager-API-main\\TaskManagerApi.Api\\Services",
+    "\\Task-Manager-API-main\\TaskManagerApi.Api\\Services\\Interfaces"
+  ],
+  "SelectedNode": "\\Task-Manager-API-main\\TaskManagerApi.Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
