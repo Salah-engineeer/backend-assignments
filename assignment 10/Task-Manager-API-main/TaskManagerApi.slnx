@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/TaskManagerApi.Api/">
+    <Project Path="TaskManagerApi.Api/TaskManagerApi.api.csproj" />
+  </Folder>
+</Solution>

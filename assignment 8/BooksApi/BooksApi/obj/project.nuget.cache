@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dGV5HzLdbq8=",
+  "dgSpecHash": "kzpddetctQ8=",
   "success": true,
   "projectFilePath": "C:\\Users\\KimoStore\\OneDrive\\Desktop\\backend assignments\\assignment 8\\BooksApi\\BooksApi\\BooksApi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\KimoStore\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
-    "C:\\Users\\KimoStore\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
-    "C:\\Users\\KimoStore\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
-    "C:\\Users\\KimoStore\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
